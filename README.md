@@ -1,3 +1,3 @@
 # Whatsauth
 Whatauth
-panwhatauth-code:4
+panwhatauth-code:45
